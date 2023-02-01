@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoshitinEncoded
 - 👀 I’m interested in create AWESOME videogame experiences! Either programming code or creating visual effects for them :D
-- 🌱 I’m currently learning C# and HLSL in Unity
-- 💞️ I’m looking to collaborate on videogame projects!
+- 🌱 Currently learning C# and HLSL in Unity
+- 💞️ Looking to collaborate on videogame projects!
 - 📫 How to reach me: moshitin.encoded@gmail.com
 
 <!---
